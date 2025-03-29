@@ -1,0 +1,9 @@
+{
+    "authenticators": [
+        {
+            "name": "No Auth Authenticator",
+            "fileName": "no-auth-authenticator.js",
+            "description": "Authenticator that authenticate user with username 'test-user'. The user should be created manually."
+        }
+    ]
+}
